@@ -1,0 +1,12 @@
+.App {
+  height: 100vh;
+  text-align: center;
+  background-color: #f3e7ff;
+  display: flex;
+  /* flex-wrap: wrap; */
+  flex-direction: column;
+  padding: 10px;
+  justify-content: center;
+  align-items: center;
+}
+/* #7c94fc */
