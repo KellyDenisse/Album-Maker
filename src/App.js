@@ -61,7 +61,7 @@ export default function App() {
         className='h-20 mb-2'
         src={AlbunMakerLogo}
         alt='logo de Album Maker'/>
-        <h1>Prueba Github action</h1>
+        <h1 className='font-bold text-white text-2xl'>Prueba Github action</h1>
       </div>
 
     {/* Contenedor */}
