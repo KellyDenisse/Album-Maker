@@ -33,4 +33,4 @@ jobs:
       - name: Build
         run: npm run build
       - name: Deploy
-        run: aws s3 sync ./build s3://react-test-deploy-cd
+        run: aws s3 sync ./build s3://album-maker-km
